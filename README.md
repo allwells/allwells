@@ -100,12 +100,12 @@
 
 
 ## Github Stats
-<div align="center" style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: space-between; place-items: center">
-  <div align="center" style="width: 100%; height: 50%;">
+<div align="center" style="background: linear-gradient(to right, #f5f5f5, #ffffff, #f5f5f5); width: 100%; height: 150px; display: flex; justify-content: space-between; place-items: center">
+  <div align="center" style="background: linear-gradient(to left, #0D1117, #204A87); width: 50%; height: 50%; margin: 0 2em;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="allwells" align="center" />
   </div>
 
-  <div align="center"  style="width: 100%; height: 50%;">
+  <div align="center"  style="background: linear-gradient(to right, #0D1117, #204A87); width: 50%; height: 50%; margin: 0 2em;">
     <img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" alt="allwells" align="center" />
   </div>
 </div>
