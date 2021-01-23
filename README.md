@@ -1,7 +1,7 @@
 
   
 
-### <div align="center"> Hi 👋, I'm Allwell Onen, a full-stack freelance developer 👨‍💻 working remotely.</div>  
+### <div align="left"> Hi 👋, I'm Allwell Onen, a full-stack freelance developer 👨‍💻 working remotely.</div>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
