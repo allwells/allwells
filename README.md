@@ -99,14 +99,16 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center" style="width: 100%; height: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="allwells" align="center" />
-</div>
+## Github Stats
+<div align="center" style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: space-between; place-items: center">
+  <div align="center" style="width: 100%; height: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="allwells" align="center" />
+  </div>
 
-<div align="center"  style="width: 100%; height: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" alt="allwells" align="center" />
-</div>   
+  <div align="center"  style="width: 100%; height: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" alt="allwells" align="center" />
+  </div>
+</div>
   
 
 <br/>  
