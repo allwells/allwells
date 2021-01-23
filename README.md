@@ -74,7 +74,7 @@
 
 
 ## Connect with me  
-<div align="center" style="display: flex; justify-content: center; place-items: center;">
+<div align="center" style="display: flex; justify-content: space-evenly; place-items: center;">
 <a href="https://github.com/allwells" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
@@ -100,9 +100,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="tekipeps" /></div>
+<div align="center" style="width: 100%; height: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="allwells" align="center" />
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
+<div align="center"  style="width: 100%; height: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" alt="allwells" align="center" />
+</div>   
   
 
 <br/>  
