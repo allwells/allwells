@@ -94,19 +94,18 @@
 <br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allwells" alt="allwells" /></a> </p>
-
-<br/>
-
-  <div align="center" style="background: linear-gradient(to left, #0D1117, #204A87); width: 50%; height: 100%; margin: 0 2em;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="allwells" align="left" />
-  </div>
   
   <br/>
 
-  <div align="center" style="background: linear-gradient(to right, #0D1117, #204A87); width: 50%; height: 100%; margin: 0 2em;">
-    <img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" alt="allwells" align="right" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" alt="allwells" align="center" />
   </div>
-  
+
+<br/>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="allwells" align="center" />
+  </div>
   
 <br/>  
  
