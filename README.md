@@ -5,9 +5,21 @@
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 💬 Ask me about **React and Node.js**
+- 📫 How to reach me **aleenfestus@gmail.com**
+<br/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allwells" alt="allwells" /></a> </p>
+
 
 <br/>  
+ 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=allwells&&style=flat-square" align="center" />
+</div> 
+
+<br/> 
 
 
 ## My Skill Set  
@@ -16,7 +28,7 @@
 
 
 ### Backend  
-<div align="center">  
+<div align="center" style="display: flex; justify-content: center; place-items: center;">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
@@ -32,7 +44,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" style="display: flex; justify-content: center; place-items: center;">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -47,7 +59,7 @@
 
 
 ### DevOps  
-<div align="center">  
+<div align="center" style="display: flex; justify-content: center; place-items: center;">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
@@ -62,7 +74,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; place-items: center;">
 <a href="https://github.com/allwells" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
@@ -90,14 +102,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=allwells&show_icons=true&locale=en&layout=compact" alt="tekipeps" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
- 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=allwells&&style=flat-square" align="center" />
-</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
   
 
 <br/>  
