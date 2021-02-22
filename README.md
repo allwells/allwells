@@ -1,8 +1,8 @@
 
   
 
-### <div align="left"> Hi 👋, I'm Allwell Onen, a full-stack freelance developer 👨‍💻 working remotely.</div>   
-📫 How to reach me **aleenfestus@gmail.com**
+### <div align="center"> Hi 👋, I'm Allwell Onen, a full-stack freelance developer 👨‍💻 working remotely.</div>   
+<p align="center">📫 How to reach me **aleenfestus@gmail.com**</p>
 
 <br/>  
 
