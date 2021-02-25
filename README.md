@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a> 
   <a href="mailto: aleenfestus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%BB001BFF.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
   </a>  
 </div>
 <br />
