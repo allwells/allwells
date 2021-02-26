@@ -1,8 +1,6 @@
 ### <div align="center"> Hi 👋, I'm Allwell Onen, a full-stack freelance developer 👨‍💻 working remotely.</div>
 
 <br/>
-
-## <p align="center"><b style="font-size: 38px;">Connect with me</b></p>
 <div align="center" style="display: flex; justify-content: space-evenly; place-items: center;">
   <a href="https://github.com/allwells" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
