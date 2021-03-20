@@ -1,4 +1,4 @@
-### <div align="center"> Hi 👋, I'm Allwell Onen, a full-stack freelance developer 👨‍💻 working remotely.</div>
+### <div align="center"> Hi 👋, I'm Allwell Onen, a full-stack developer 👨‍💻 working remotely.</div>
 
 <br/>
 <div align="center" style="display: flex; justify-content: space-evenly; place-items: center;">
