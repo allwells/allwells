@@ -11,7 +11,7 @@
   <a href="https://dev.to/allwells">
     <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://medium.com/@aleenfestus">
+  <a href="https://medium.com/@allwells">
     <img src="https://img.shields.io/badge/medium-%2308090A.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/allwell-festus" target="_blank">
