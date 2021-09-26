@@ -1,30 +1,8 @@
-### <div align="center"> Hi 👋, I'm Allwell Onen, a full-stack developer 👨‍💻 working remotely.</div>
-
-<br/>
-<div align="center" style="display: flex; justify-content: space-evenly; place-items: center;">
-  <a href="https://github.com/allwells" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/allwell_festus" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://dev.to/allwells">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://medium.com/@allwells">
-    <img src="https://img.shields.io/badge/medium-%2308090A.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/allwell-festus" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/allwell.onen" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/allwell_festus" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a> 
-  <a href="mailto: aleenfestus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-  </a> 
-</div>
-<br />
+<a href="https://www.linkedin.com/in/alwlell-festus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/allwell_festus/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/allwell_festus/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href="mailto:aleenfestus@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
+<!-- <a href="https://www.allwells.codes" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a> -->
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&count_private=true" width="500" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwells&layout=compact/" width="208" height="auto"/>
