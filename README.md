@@ -43,8 +43,10 @@ I am Allwell Onen, currently pursuing my Bachelors in Computer Science from [Anc
 
 ## 📈 Stats
 
-<p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&theme=onedark" />
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=allwells&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwells&theme=onedark&layout=compact"/>
+<p align="left">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&theme=onedark" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=allwells&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+<p align="left">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwells&theme=onedark&layout=compact" />
 </p>
