@@ -21,7 +21,7 @@ I am Allwell Onen, currently pursuing my Bachelors in Computer Science from [Anc
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-000088?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-E26D00?style=flat-square&logo=mysql)
 
 ### Libraries & Framework
 
