@@ -2,7 +2,7 @@
 
 ## Hi, I am Allwell! Great having you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Allwell Onen, currently pursuing my Bachelors in Computer Science from [Anchor University Lagos](https://aul.edu.ng/). I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor University Lagos](https://aul.edu.ng/). I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwell-festus/)](https://www.linkedin.com/in/allwell-festus/)
 [![Instagram Badge](https://img.shields.io/badge/-@allwell_festus-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwell_festus/)](https://instagram.com/allwell_festus)
