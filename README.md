@@ -54,5 +54,5 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
 <hr>
 
 <p align="center">
-  <img src="https://github.com/allwells/allwells/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
