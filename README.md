@@ -50,9 +50,3 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
 <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwells&theme=onedark&layout=compact" />
 </p>
-
-<hr>
-
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
