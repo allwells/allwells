@@ -7,9 +7,7 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
 [![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells/)
 [![Instagram Badge](https://img.shields.io/badge/-@allwells_official-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official)
 [![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-AllwellOnen-green?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://www.linkedin.com/in/allwell_festus/)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/) -->
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/)
 
 [![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
 
@@ -19,6 +17,7 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
 
 ![Java](https://img.shields.io/badge/-Java-800000?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-111111?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
