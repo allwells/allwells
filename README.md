@@ -25,6 +25,7 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
 
 ### Libraries & Framework
 
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-111111?style=flat-square&logo=springboot)
 ![ReactJS](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-111111?style=flat-square&logo=node.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-111111?style=flat-square&logo=next.js)
