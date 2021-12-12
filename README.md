@@ -58,7 +58,7 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
 
 ### OPERATING SYSTEM
 
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### IDEs
