@@ -16,6 +16,7 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### FRAMEWORKS, PLATFORMS & LIBRARIES
@@ -102,6 +103,6 @@ I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor Un
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&theme=onedark" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=allwells&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-<p align="left">
+<!-- <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwells&theme=onedark&layout=compact" />
-</p>
+</p> -->
