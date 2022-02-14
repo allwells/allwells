@@ -2,7 +2,7 @@
 
 ## Hi, I am Allwell! Great having you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor University Lagos](https://aul.edu.ng/). I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas.
+I am Allwell Onen, currently pursuing my BSc in Computer Science from [Anchor University Lagos](https://aul.edu.ng/). I am a tech enthusiast. I am open to collaborating on projects and innovative ideas. Aside computer stuffs, enjoy playing video games and taking photos especially of Nature and of course humans. Humans are nature's art 📷
 
 [![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
 
