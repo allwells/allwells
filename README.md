@@ -4,7 +4,7 @@
 
 Hi! I'm Allwell Onen,  a tech enthusiast. I am open to collaboration on innovative ideas. Aside computer stuffs, enjoy playing video games and taking photos especially of Nature and of course humans. Humans are nature's art. I am currently pursuing my BSc in Computer Science from  [Anchor University](https://aul.edu.ng/) and also on a Cyber Security pathway.
 
-[![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
+<!-- [![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
 
 ## ⚡ TECHNOLOGIES
 
@@ -28,10 +28,10 @@ Hi! I'm Allwell Onen,  a tech enthusiast. I am open to collaboration on innovati
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
 <!-- ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) -->
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
-
+<!-- 
 ### HOSTING/SaaS
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -48,7 +48,7 @@ Hi! I'm Allwell Onen,  a tech enthusiast. I am open to collaboration on innovati
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-E26D00.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ORM
 
@@ -83,26 +83,28 @@ Hi! I'm Allwell Onen,  a tech enthusiast. I am open to collaboration on innovati
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 ### SOCIAL
 
+
+[![Telegram Badge](https://img.shields.io/badge/-@allwells-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](mailto:aleenfestus@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells/)
-[![Instagram Badge](https://img.shields.io/badge/-@allwells_official-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official)
+[![Instagram Badge](https://img.shields.io/badge/-@allwells_official-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official)
 [![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/)
 
 <!-- ## 💰 SUPPORT
 <p>
 <a href='https://www.buymeacoffee.com/allwells' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Allwell on buymecoffee' /></a>
 </p> -->
 
-## 📈 STATS
+<!-- ## 📈 STATS
 
 <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&theme=onedark" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=allwells&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+</p> -->
 <!-- <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwells&theme=onedark&layout=compact" />
 </p> -->
