@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=allwells&label=visitors%20&color=202124&style=plastic" alt="allwells" /> </p>
 
-## Hi, I am Allwell! Great having you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Allwell! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Hi! I'm Allwell Onen,  a tech enthusiast. I am open to collaboration on innovative ideas. Aside computer stuffs, enjoy playing video games and taking photographs. I am currently pursuing my BSc in Computer Science from  [Anchor University](https://aul.edu.ng/) and also on a Cyber Security pathway.
+I am a tech enthusiast. I am open to collaboration on innovative ideas. Aside computer stuffs, enjoy playing video games and taking photographs. I am currently pursuing my BSc in Computer Science from  [Anchor University](https://aul.edu.ng/) and also on a Cyber Security pathway.
 
 <!-- [![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
 
