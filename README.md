@@ -91,6 +91,7 @@ I am a tech enthusiast. I am open to collaboration on innovative ideas. Aside fr
 [![Telegram Badge](https://img.shields.io/badge/-@allwells-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](mailto:aleenfestus@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells/)
 [![Instagram Badge](https://img.shields.io/badge/-@allwells_official-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official)
+[![Twitter Badge](https://img.shields.io/badge/-@allwells_official-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus)
 [![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/)
 
