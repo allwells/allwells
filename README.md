@@ -2,7 +2,7 @@
 
 ## Hi, I am Allwell! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a tech enthusiast. I am open to collaboration on innovative ideas. Aside computer stuffs, enjoy playing video games and taking photographs. I am currently pursuing my BSc in Computer Science from  [Anchor University](https://aul.edu.ng/) and also on a Cyber Security pathway.
+I am a tech enthusiast. I am open to collaboration on innovative ideas. Aside from computer kinds of stuff, enjoy playing video games and taking photographs. I am currently pursuing my BSc in Computer Science from [Anchor University](https://aul.edu.ng/) and also on a Cyber Security pathway.
 
 <!-- [![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
 
