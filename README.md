@@ -2,7 +2,7 @@
 
 ## Hi, I am Allwell! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a tech enthusiast. I am open to collaboration on innovative ideas. Aside from computer kinds of stuff, enjoy playing video games and taking photographs. I am currently pursuing my BSc in Computer Science from [Anchor University](https://aul.edu.ng/) and also on a Cyber Security pathway.
+Allwell Onen is a tech enthusiast. He is a dedicated software developer. He finds breaking and fixing things - legally - fascinating and will like to seek a career in Cyber Security in the long run. He is open to collaboration on innovative ideas and prefers working with a team to working independently. Allwell Onen is currently pursuing his BSc in Computer Science from [Anchor University](https://aul.edu.ng/), Lagos.
 
 <!-- [![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
 
@@ -85,15 +85,14 @@ I am a tech enthusiast. I am open to collaboration on innovative ideas. Aside fr
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
-### SOCIAL
+### CONTACT ME
 
-
-[![Telegram Badge](https://img.shields.io/badge/-@allwells-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](mailto:aleenfestus@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells/)
+[![Telegram Badge](https://img.shields.io/badge/-@allwells-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/alwlells)
+[![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
 [![Instagram Badge](https://img.shields.io/badge/-@allwells_official-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official)
 [![Twitter Badge](https://img.shields.io/badge/-@allwells_official-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus)
 [![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/)
+<!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/) -->
 
 <!-- ## 💰 SUPPORT
 <p>
