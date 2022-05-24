@@ -94,7 +94,7 @@ Dedicated Fullstack Web Developer with over 1+ years experience in frontend tech
 [![Instagram Badge](https://img.shields.io/badge/-@allwells_official-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official)
 [![Twitter Badge](https://img.shields.io/badge/-@allwells_official-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus)
 [![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
-<!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/) -->
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/)
 
 <!-- ## 💰 SUPPORT
 <p>
