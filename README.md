@@ -3,7 +3,7 @@
 ## Hi, I am Allwell! 
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 
-Dedicated Fullstack Web Developer with over 1+ years experience in frontend technologies: React, HTML5, CSS3, JavaScript, etc, and 7+ months experience in backend technologies: Node.js, Express, MongoDB, MySQL. Possesses problem-solving skills and a self-motivated, dependable nature and able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Focused on helping the company achieve short- and long-term goals as well as client satisfaction and event success.
+Dedicated Fullstack Web Developer with at least 2 years experience in frontend technologies: React, HTML5, CSS3, JavaScript, etc, and 1+ years experience in backend technologies: Node.js, Express, MongoDB, MySQL. Possesses problem-solving skills and a self-motivated, dependable nature and able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Focused on helping the company achieve short- and long-term goals as well as client satisfaction and event success.
 
 <!-- Allwell Onen is a tech enthusiast. He is a dedicated software developer. He finds breaking and fixing things - legally - fascinating and will like to seek a career in Cyber Security in the long run. He is open to collaboration on innovative ideas and prefers working with a team to working independently. Allwell Onen is currently pursuing his BSc in Computer Science from [Anchor University](https://aul.edu.ng/), Lagos. -->
 
