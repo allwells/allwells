@@ -1,6 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=allwells&label=visitors%20&color=202124&style=plastic" alt="allwells" /> </p>
 
-## Hi, I am Allwell! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Allwell! 
+<!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 
 Dedicated Fullstack Web Developer with over 1+ years experience in frontend technologies: React, HTML5, CSS3, JavaScript, etc, and 7+ months experience in backend technologies: Node.js, Express, MongoDB, MySQL. Possesses problem-solving skills and a self-motivated, dependable nature and able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Focused on helping the company achieve short- and long-term goals as well as client satisfaction and event success.
 
