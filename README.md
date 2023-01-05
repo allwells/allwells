@@ -93,9 +93,9 @@ Frontend Developer with at least 4 years of experience in an assortment of front
 
 ### CONTACT ME
 
-[![Telegram Badge](https://img.shields.io/badge/-@allwells-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/alwlells)
-[![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
-[![Twitter Badge](https://img.shields.io/badge/-@allwell_festus-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus)
+[![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/alwlells)
+[![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
+[![Twitter Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus)
 [![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@allwells_official-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official) -->
 <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/) -->
