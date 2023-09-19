@@ -6,7 +6,7 @@
 
 <!-- A dedicated Frontend Developer from 🇳🇬Nigeria🇳🇬 with at least 3 years of experience with frontend technologies, including HTML, CSS, React, Next.js, Tailwindcss, APIs and more. Possesses exceptional problem-solving skills and a self-motivated, dependable nature and can effectively self-manage during independent projects and collaborate as part of a productive team. A goal-driven individual that focuses on helping companies achieve short- and long-term goals, client satisfaction, and event success. -->
 
-Frontend Developer with at least 4 years of experience in an assortment of frontend technologies, including Create React App, Next.js, Tailwindcss, API integration, Typescript, etc. Possesses exceptional problem-solving skills and a self-motivated, dependable nature and can effectively self-manage during independent projects, as well as collaborate in a team setting. A goal-driven individual that focuses on achieving short- and long-term goals, and client satisfaction and delivers on time.
+Experienced software engineer with experience of over 3 years in delivering high-quality software solutions for businesses. Proficient in building robust web applications, possessing a strong command of front-end technologies, and holding a foundational understanding of back-end technologies.
 
 <!-- Allwell Onen is a tech enthusiast. He is a dedicated software developer. He finds breaking and fixing things - legally - fascinating and will like to seek a career in Cyber Security in the long run. He is open to collaboration on innovative ideas and prefers working with a team to working independently. Allwell Onen is currently pursuing his BSc in Computer Science from [Anchor University](https://aul.edu.ng/), Lagos. -->
 
