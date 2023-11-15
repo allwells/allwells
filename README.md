@@ -10,7 +10,7 @@ Experienced software engineer with experience of over 3 years in delivering high
 
 <!-- Allwell Onen is a tech enthusiast. He is a dedicated software developer. He finds breaking and fixing things - legally - fascinating and will like to seek a career in Cyber Security in the long run. He is open to collaboration on innovative ideas and prefers working with a team to working independently. Allwell Onen is currently pursuing his BSc in Computer Science from [Anchor University](https://aul.edu.ng/), Lagos. -->
 
-<!-- [![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
+[![Allwell's github activity graph](https://activity-graph.herokuapp.com/graph?username=allwells&theme=xcode)](https://git.io/allwells)
 
 ## ⚡ TECHNOLOGIES
 
@@ -34,10 +34,8 @@ Experienced software engineer with experience of over 3 years in delivering high
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
-<!-- ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) -->
-<!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
-<!-- 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
 ### HOSTING/SaaS
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -89,7 +87,7 @@ Experienced software engineer with experience of over 3 years in delivering high
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### CONTACT ME
 
@@ -100,17 +98,17 @@ Experienced software engineer with experience of over 3 years in delivering high
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@allwells_official-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/allwells_official/)](https://instagram.com/allwells_official) -->
 <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://allwells.vercel.app/)](https://allwells.vercel.app/) -->
 
-<!-- ## 💰 SUPPORT
+## 💰 SUPPORT
 <p>
 <a href='https://www.buymeacoffee.com/allwells' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Allwell on buymecoffee' /></a>
-</p> -->
+</p>
 
-<!-- ## 📈 STATS
+## 📈 STATS
 
 <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=allwells&show_icons=true&theme=onedark" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=allwells&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</p> -->
-<!-- <p align="left">
+</p>
+<p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwells&theme=onedark&layout=compact" />
-</p> -->
+</p>
