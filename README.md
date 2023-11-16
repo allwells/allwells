@@ -4,6 +4,11 @@
 
 Experienced software engineer with experience of over 3 years in delivering high-quality software solutions for businesses. Proficient in building robust web applications, possessing a strong command of front-end technologies, and holding a foundational understanding of back-end technologies.
 
+### CONTACT ME
+[![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/alwlells)
+[![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
+[![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus) -->
 
 ## ⚡ TECHNOLOGIES
 
@@ -18,11 +23,13 @@ Experienced software engineer with experience of over 3 years in delivering high
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
 
 #### FRAMEWORKS, PLATFORMS & LIBRARIES
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=5BA967)
+![Nuxt.js](https://img.shields.io/badge/nuxt-%2320232a.svg?style=for-the-badge&logo=nuxt.js&logoColor=05A65E)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=A54766)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=AF3434)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
@@ -72,12 +79,6 @@ Experienced software engineer with experience of over 3 years in delivering high
 #### OTHER
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### CONTACT ME
-[![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/alwlells)
-[![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
-[![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus) -->
 
 <!--
 ## 📈 STATS
