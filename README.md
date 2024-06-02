@@ -1,6 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=allwells&label=visitors%20&color=202124&style=plastic" alt="allwells" /> </p>
 
-Hi!👋 I'm Allwell, a Software Engineer with 6 years of experience. For the past 5 years, I have specialized in crafting responsive, user-friendly interfaces, consistently delivering high-quality work efficiently. I always aim to meet the needs of both users and clients. Need something built quickly without compromising on quality? Feel free to reach out through any of the contact methods below.
+# Hi👋! I'm Allwell
+
+A Software Engineer with 6 years of experience who has specialized in building responsive, user-friendly interfaces, and focused on consistently delivering high-quality work with exceptional speed, with aim of meeting the needs of both users and clients alike. Need a website or app built quickly without compromising on quality? I am your guy. Feel free to reach out through any of the contact methods below.
 
 ### CONTACT ME
 [![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/allwells)
