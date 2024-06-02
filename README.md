@@ -1,11 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=allwells&label=visitors%20&color=202124&style=plastic" alt="allwells" /> </p>
 
-# Hello👋, I'm Allwell
-
-A skilled Software Engineer with 4 years of experience working with frontend technologies such as React, React Native, Next.js, Vue, Tailwindcss, Typescript and Javascript. Throughout my 4 years experience in the field, I have demonstrated my expertise in implementing responsive user interfaces (UI). My skill set emphasizes a profound understanding of user-centric design principles, usability, and best practices in front-end development. With a strong command of React, React Native, Next.js, Tailwindcss, Typescript, and JavaScript, I possess the necessary tools to create dynamic and responsive user interfaces.
+Hi!👋 I'm Allwell, a Software Engineer with 6 years of experience. For the past 5 years, I have specialized in crafting responsive, user-friendly interfaces, consistently delivering high-quality work efficiently. I always aim to meet the needs of both users and clients. Need something built quickly without compromising on quality? Feel free to reach out through any of the contact methods below.
 
 ### CONTACT ME
-[![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/alwlells)
+[![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/allwells)
 [![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
 [![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus) -->
