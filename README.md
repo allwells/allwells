@@ -2,7 +2,7 @@
 
 # Hi👋! I'm Allwell
 
-A Software Engineer with 6 years of experience who has specialized in building responsive, user-friendly interfaces, and focused on consistently delivering high-quality work with exceptional speed, with the aim of meeting the needs of both users and clients alike. Need a website or app built quickly without compromising on quality? I am your guy. Feel free to reach out through any of the contact methods below.
+A Frontend Developer with 6 years of experience who has specialized in building responsive, user-friendly interfaces, and focused on consistently delivering high-quality work with exceptional speed, with the aim of meeting the needs of both users and clients alike. Need a website or app built quickly without compromising on quality? I am your guy. Feel free to reach out through any of the contact methods below.
 
 ### CONTACT ME
 [![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/allwells)
