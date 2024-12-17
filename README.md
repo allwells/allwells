@@ -2,7 +2,7 @@
 
 # Hi!👋 I'm Allwell
 
-Frontend Developer with 4 years of experience specializing in building responsive, user-friendly interfaces. I focus on delivering high-quality work at exceptional speed, ensuring that both user experience and client needs are met. Need a website or web app built quickly without sacrificing quality? Let’s connect! Feel free to reach out via any of the contact methods below
+Frontend Developer with 5 years of experience specializing in building responsive, user-friendly interfaces. I focus on delivering high-quality work at exceptional speed, ensuring that both user experience and client needs are met. Need a website or web app built quickly without sacrificing quality? Let’s connect! Feel free to reach out via any of the contact methods below
 
 ### CONTACT ME
 [![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/allwells)
