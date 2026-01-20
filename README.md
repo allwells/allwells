@@ -7,7 +7,7 @@ Hi! My name is Allwell and I have worked as a Frontend Engineer for the last 6 y
 ### CONTACT ME
 [![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/allwells)
 [![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
-[![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleenfestus@gmail.com)](mailto:aleenfestus@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-aleenfestus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allwellsofficial@gmail.com)](mailto:allwellsofficial@gmail.com)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwell_festus/)](https://twitter.com/allwell_festus) -->
 
 <!-- ## ⚡ TECHNOLOGIES
