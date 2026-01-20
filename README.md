@@ -1,8 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=allwells&label=visitors%20&color=202124&style=plastic" alt="allwells" /> </p>
 
 # Profile Summary
+Frontend Engineer specializing in React.js, Next.js, and TypeScript, building products that scale and interfaces that convert.
 
-Hi! My name is Allwell and I have worked as a Frontend Engineer for the last 6 years. Over the years I have developed, maintained and deployed websites and web applications for businesses and startups. Clients and colleagues have said that I am reliable, detail-oriented, highly-resourceful under pressure and my speed and accuracy is exceptional. I excel at building performant web interfaces using various frontend technologies such as React, Next.js, TypeScript, Tailwind CSS, etc, as well as integrating APIs and optimizing frontend performance. I bring a proven track record of delivering scalable frontend solutions, strong collaboration skills, and a passion for creating seamless user experiences. I’m confident in my ability to add value to your team or project and would welcome the opportunity to discuss how I can contribute.
+I've helped startups and established businesses ship faster without sacrificing quality. My approach? Ruthless efficiency meets precision execution: 67.5% reduction in project timelines, 73%+ productivity gains, and zero compromise on user experience.
+
+I thrive at the intersection of design, engineering, and business impact, collaborating across teams to transform complex requirements into elegant, maintainable solutions.
 
 ### CONTACT ME
 [![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/allwells)
