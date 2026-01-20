@@ -3,7 +3,7 @@
 # Profile Summary
 Frontend Engineer specializing in React.js, Next.js, and TypeScript, building products that scale and interfaces that convert.
 
-I've helped startups and established businesses ship faster without sacrificing quality. My approach? Ruthless efficiency meets precision execution: 67.5% reduction in project timelines, 73%+ productivity gains, and zero compromise on user experience.
+I've helped startups and established businesses ship faster without sacrificing quality. My approach? Ruthless efficiency meets precision execution: 66.7% reduction in project timelines, 73%+ productivity gains, and zero compromise on user experience.
 
 I thrive at the intersection of design, engineering, and business impact, collaborating across teams to transform complex requirements into elegant, maintainable solutions.
 
