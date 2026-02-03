@@ -1,4 +1,14 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=allwells&label=visitors%20&color=202124&style=plastic" alt="allwells" /> </p>
+<b>Senior Frontend Engineer | React • TypeScript • Next.js</b>
+
+Building production-grade web applications for 6 years. Currently at Braudit (performance optimization platform) + selective contracts with design agencies like Studio Freight.
+
+I build: Real-time systems, data visualizations, component libraries, animated interfaces, CMS-powered websites.
+
+Stack: React.js, TypeScript, Next.js, Vue.js, GraphQL, WebSocket, Tailwind, GSAP, Framer Motion, Sanity CMS, Storyblok CMS.
+
+Portfolio: [allwellsofficial.com](https://www.allwellsofficial.com)
+
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=allwells&label=visitors%20&color=202124&style=plastic" alt="allwells" /> </p>
 
 # Profile Summary
 Frontend Engineer specializing in React.js, Next.js, and TypeScript, building products that scale and interfaces that convert.
@@ -11,7 +21,7 @@ I thrive at the intersection of design, engineering, and business impact, collab
 [![Telegram Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Telegram-333333?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/allwells)](https://t.me/allwells)
 [![Linkedin Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allwells/)](https://www.linkedin.com/in/allwells)
 [![Gmail Badge](https://img.shields.io/badge/-allwellsofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allwellsofficial@gmail.com)](mailto:allwellsofficial@gmail.com)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwellonen/)](https://twitter.com/allwellonen) -->
+[![Twitter Badge](https://img.shields.io/badge/-Allwell%20Onen%20--%20Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allwellonen/)](https://twitter.com/allwellonen) -->
 
 <!-- ## ⚡ TECHNOLOGIES
 
