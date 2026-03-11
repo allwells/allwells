@@ -22,7 +22,7 @@ Currently building **[SmoothBook](https://www.linkedin.com/company/smoothbook)**
 
 **Real-time systems** - WebSocket architectures, live dashboards, concurrent user handling (2,000+ users), 60 FPS data interfaces
 
-**Full-stack SaaS** - Multi-tenant PostgreSQL schemas, Next.js API routes, authentication systems, payment processing (Paystack), iCalendar integrations
+**Full-stack SaaS** - Multi-tenant PostgreSQL schemas, Next.js API routes, authentication systems, payment processing, iCalendar integrations
 
 **Data visualization** - Chart.js + Recharts dashboards processing up to 10,000 data points, role-based analytics views
 
