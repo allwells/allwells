@@ -62,6 +62,7 @@ Sanity and Storyblok implementations with custom schemas, portable text configur
 
 **Data, APIs & State**
 
+![TanStack](https://img.shields.io/badge/TanStack-E10098?style=flat-square&logo=tanstack&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=34E8C5)
 ![WebSocket](https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=34E8C5)
