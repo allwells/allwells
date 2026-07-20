@@ -2,7 +2,7 @@
 
 # Allwell Onen
 
-**Frontend Engineer · AI Automation**
+**Frontend Engineer · AI Automation Engineer**
 
 [![Frontend Portfolio](https://img.shields.io/badge/Frontend_Portfolio-allwelldev.vercel.app-050807?style=flat-square&logo=safari&logoColor=34E8C5)](https://allwelldev.vercel.app)
 [![Automation Portfolio](https://img.shields.io/badge/Automation_Portfolio-allwellonen.vercel.app-050807?style=flat-square&logo=zapier&logoColor=34E8C5)](https://allwellonen.vercel.app)
@@ -117,7 +117,7 @@ WebSocket and socket.io layers wired into cache invalidation so live data stays 
 
 <div align="center">
 
-**Frontend Engineer · AI Automation**
+**Frontend Engineer · AI Automation Engineer**
 
 Remote Worldwide · US East Coast overlap / European hours
 
