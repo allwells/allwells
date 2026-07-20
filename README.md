@@ -111,8 +111,6 @@ WebSocket and socket.io layers wired into cache invalidation so live data stays 
 ## Currently
 
 - Frontend Engineer at **Serendpt AI** (part-time)
-- Building **SmoothBook**, a multi-tenant short-let property management platform
-- Building **ParseHQ**, an AI invoice extraction tool (Next.js, Postgres, GPT-4o Vision)
 - Open to full-time and part-time remote roles
 
 ---
