@@ -1,124 +1,121 @@
-<div align="center">
+ <div align="center">
 
 # Allwell Onen
 
-**Frontend Engineer · AI Automation Engineer**
+**Frontend & Product Engineer · AI Integrations & Automation**
 
-[![Frontend Portfolio](https://img.shields.io/badge/Frontend_Portfolio-allwelldev.vercel.app-050807?style=flat-square&logo=safari&logoColor=34E8C5)](https://allwelldev.vercel.app)
-[![Automation Portfolio](https://img.shields.io/badge/Automation_Portfolio-allwellonen.vercel.app-050807?style=flat-square&logo=zapier&logoColor=34E8C5)](https://allwellonen.vercel.app)
+Building useful software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-allwells-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/allwells)
-[![Email](https://img.shields.io/badge/Email-allwellonen@gmail.com-050807?style=flat-square&logo=gmail&logoColor=34E8C5)](mailto:allwellonen@gmail.com)
+[Portfolio](https://allwellonen.vercel.app) · [Selected Work](https://allwellonen.vercel.app/work) · [LinkedIn](https://linkedin.com/in/allwells) · [Email](mailto:allwellonen@gmail.com)
 
 </div>
 
 ---
 
-7 years building production web applications for SaaS platforms, marketplaces, and B2B products. I specialize in multi-tenant, role-based architectures, typed data layers, and component systems that hold up across multiple applications.
+## About
 
-I work with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **TanStack Query**, **Apollo**, and **GraphQL** to build frontend systems that scale beyond the first release.
+I'm a **Frontend & Product Engineer with 7+ years of experience** building web applications, SaaS platforms, marketplaces and business software.
 
----
+My experience spans frontend architecture, multi-tenant systems, complex application workflows and product development. I've worked as the sole frontend engineer on early-stage teams, helped launch products and maintained applications through evolving requirements and multiple product iterations.
 
-## What I Build
+My work also extends into **AI applications, LLM integrations and workflow automation**, connecting language models, APIs and business systems to build practical software solutions.
 
-**Multi-tenant architectures**
+I've collaborated remotely with teams in Nigeria, Brazil, Portugal, the United States and the United Kingdom.
 
-Role-based applications serving multiple user types from a unified codebase, with organization scoping, access controls, and protected views.
+## Engineering Focus
 
-**SaaS product interfaces**
+**Frontend Engineering**
+- Architecture and development of React, Next.js and TypeScript applications.
+- Multi-tenant systems, role-based experiences and organization-scoped data.
+- Complex interfaces, reusable component systems, accessibility and performance.
+- Typed API integrations, asynchronous data management and real-time functionality.
 
-Feature-rich dashboards covering bookings, wallets, analytics, onboarding, settings, and everything in between.
+**Product Engineering**
+- End-to-end development of SaaS platforms, dashboards and multi-application products.
+- Translating product requirements into maintainable technical implementations.
+- Authentication, authorization, API integration and cross-application workflows.
+- Building and evolving products alongside design, backend and product teams.
 
-**Marketplace and platform frontends**
+**AI Applications & Integrations**
+- Integrating language models into web applications and existing business systems.
+- Structured data extraction, validation and human-review workflows.
+- Connecting AI capabilities with application logic, APIs and persistent data.
+- Developing full-stack AI-powered application features.
 
-End-to-end frontend systems for two-sided platforms with separate user, client, and admin applications sharing a unified design system.
+**AI & Workflow Automation**
+- Building n8n workflows for CRM operations, recruitment, support and finance.
+- Integrating LLMs, webhooks, third-party APIs and business platforms.
+- Event-driven automation, conditional processing and structured data synchronization.
+- Workflow reliability, failure handling, logging and human approval.
 
-**AI document pipelines**
+## Selected Work
 
-LLM extraction with structured output, per-field confidence scoring, and source-linking back to the original document, wrapped in validation and retry logic.
+| Project | Engineering Contribution |
+|---|---|
+| **Braudit** | Sole frontend engineer for a multi-tenant employee productivity SaaS platform serving 33 organizations. Owned frontend architecture and development through multiple product pivots. |
+| **Pather** | Frontend delivery across three education applications for learners, experts, and administrators, including course management, live sessions, quizzes, and dashboards. |
+| **SmoothBook** | Co-founder and frontend engineer building a multi-tenant short-let booking platform across manager, agent, and marketing applications. Currently pre-launch. |
+| **ParseHQ** | Independent full-stack AI invoice processing application integrating Gemini/OpenAI, structured extraction, validation, and source-linked document review. Private development. |
+| **HubSpot Lead Enrichment** | Developed a live n8n, Gemini, and HubSpot automation for RetailBox. Client-reported outreach readiness improved from hours or days to approximately five minutes. |
+| **AI CV Screener** | Developed an automated recruitment screening workflow for MugDevs using n8n, Gemini, Google Drive, and Google Sheets. Client-reported initial screening of 70+ CVs fell from approximately one week to minutes. |
 
-**CMS architecture**
+**[Explore more work and case studies →](https://allwellonen.vercel.app/work)**
 
-Sanity and Storyblok implementations with custom document and object schemas, conditional field logic, custom desk structures, and editor safeguards that keep non-technical teams from breaking routes.
+## Technical Expertise
 
-**Real-time interfaces**
+My work covers application architecture, frontend engineering, backend integrations, AI capabilities and business automation.
 
-WebSocket and socket.io layers wired into cache invalidation so live data stays in sync without full refetches.
+| Area | Technologies |
+|---|---|
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Vue, Nuxt, Tailwind CSS |
+| **Application Architecture & Data** | TanStack Query, Apollo Client, GraphQL, REST APIs, WebSockets, Zustand |
+| **Backend & Databases** | Node.js, PostgreSQL, Drizzle ORM, Prisma, Better Auth |
+| **AI Applications** | Vercel AI SDK, OpenAI API, Anthropic Claude, Google Gemini, Zod |
+| **Automation & Integrations** | n8n, HubSpot, Gmail, Google Sheets, Airtable, Slack, QuickBooks, Webhooks |
+| **CMS** | Sanity, Storyblok |
+| **Development & Delivery** | Git, Docker, GitHub Actions, Sentry, Vercel, Bun |
 
----
+## Professional Experience
 
-## Core Stack
+**Frontend Engineer · Serendpt AI**  
+*April 2026 – Present · Part-time, Remote*
 
-**Frontend**
+Frontend engineering for AI-powered products, including agent knowledge bases, embeddable forms, customer-facing integrations and dashboards.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+**AI Integration & Automation Engineer · Freelance**  
+*February 2026 – Present · Remote*
 
-**Styling & UI**
+Developing AI integrations and business automations connecting CRMs, recruitment processes, customer support systems and third-party APIs.
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Frontend Engineer · Braudit**  
+*February 2023 – April 2026 · Full-time, Remote*
 
-**Data, APIs & State**
+Owned frontend architecture and development for a multi-tenant SaaS platform focused on employee productivity and performance management.
 
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=34E8C5)
-![WebSocket](https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=34E8C5)
-![Zustand](https://img.shields.io/badge/Zustand-111827?style=flat-square&logo=react&logoColor=34E8C5)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+**Web Developer · Studio Freight**  
+*June 2025 – January 2026 · Remote*
 
-**Backend & Data**
+Frontend development, Sanity and Storyblok implementations, and content migration for agency client projects.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Better Auth](https://img.shields.io/badge/Better_Auth-111827?style=flat-square&logo=auth0&logoColor=34E8C5)
+**Frontend Engineer · Moonshot IT**  
+*May 2019 – January 2023 · Full-time, Remote*
 
-**CMS**
-
-![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Storyblok](https://img.shields.io/badge/Storyblok_CMS-09B3AF?style=flat-square&logo=storyblok&logoColor=white)
-
-**Automation & AI**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
----
+Frontend engineering for web applications, dashboards, and software products developed with international teams.
 
 ## Currently
 
-- Frontend Engineer at **Serendpt AI** (part-time)
-- Open to full-time and part-time remote roles
+- Frontend Engineer at **Serendpt AI** (part-time).
+- Building and maintaining web applications, AI integrations, and automation workflows.
+- Open to remote **full-time, part-time, contract, and freelance opportunities**.
 
 ---
 
 <div align="center">
 
-**Frontend Engineer · AI Automation Engineer**
+**Frontend & Product Engineer**
 
-Remote Worldwide · US East Coast overlap / European hours
+Lagos, Nigeria · Remote-first
+
+[Website](https://allwellonen.vercel.app) · [LinkedIn](https://linkedin.com/in/allwells) · [Email](mailto:allwellonen@gmail.com)
 
 </div>
