@@ -6,7 +6,7 @@
 
 Building useful software.
 
-[Portfolio](https://allwellonen.vercel.app) · [Selected Work](https://allwellonen.vercel.app/work) · [LinkedIn](https://linkedin.com/in/allwells) · [Email](mailto:allwellonen@gmail.com)
+[Portfolio](https://allwellonen.com) · [Selected Work](https://allwellonen.com/work) · [LinkedIn](https://linkedin.com/in/allwells) · [Email](mailto:hi@allwellonen.com)
 
 </div>
 
@@ -59,7 +59,7 @@ I've collaborated remotely with teams in Nigeria, Brazil, Portugal, the United S
 | **HubSpot Lead Enrichment** | Developed a live n8n, Gemini, and HubSpot automation for RetailBox. Client-reported outreach readiness improved from hours or days to approximately five minutes. |
 | **AI CV Screener** | Developed an automated recruitment screening workflow for MugDevs using n8n, Gemini, Google Drive, and Google Sheets. Client-reported initial screening of 70+ CVs fell from approximately one week to minutes. |
 
-**[Explore more work and case studies →](https://allwellonen.vercel.app/work)**
+**[Explore more work and case studies →](https://allwellonen.com/work)**
 
 ## Technical Expertise
 
@@ -116,6 +116,6 @@ Frontend engineering for web applications, dashboards, and software products dev
 
 Lagos, Nigeria · Remote-first
 
-[Website](https://allwellonen.vercel.app) · [LinkedIn](https://linkedin.com/in/allwells) · [Email](mailto:allwellonen@gmail.com)
+[Website](https://allwellonen.com) · [LinkedIn](https://linkedin.com/in/allwells) · [Email](mailto:hi@allwellonen.com)
 
 </div>
